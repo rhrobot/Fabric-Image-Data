@@ -4,7 +4,7 @@
 
 This a fabric dataset named **Fabric Image Data (FID)** for textile image classification. The dataset contains 12181 wool fabric images, and all of them are labeled within four categories. The image size is 420×570, and according to the fabric’s appearance, clothes are divided into four categories: **lattice** has 3128 pictures, **pattern** has 768, **solid** has 4169 and **stripe** has 4116，we hope the open dataset FID will benefit the weaving sector. 
 
-**If you find FID dataset useful in your research, please consider citing**: The Improved Method in Fabric Image Classification Using Convolutional Neural Network
+**If you find FID dataset useful in your research, please consider citing**: Liu, R., Yu, Z., Fan, Q. et al. The improved method in fabric image classification using convolutional neural network. Multimed Tools Appl (2023). https://doi.org/10.1007/s11042-023-15573-w
 
 - **lattice**
 ![image](https://user-images.githubusercontent.com/106946930/173794730-0e92a901-ac56-4add-af31-7e7aadfdd3d8.png)
